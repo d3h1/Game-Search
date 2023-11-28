@@ -1,6 +1,6 @@
 import axios from "axios";
 
-// This will be done through vercel
+// This will be done through vercel --- Building
 const API_URL = import.meta.env.VITE_RAWG_URL;
 const API_KEY = import.meta.env.VITE_RAWG_API_KEY;
 
